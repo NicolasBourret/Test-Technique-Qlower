@@ -1,0 +1,40 @@
+{
+  "properties": [
+    {
+      "type": "Appartement",
+      "name": "Appartment ensoleillé",
+      "address": "4 Rue du 8 mai 1945",
+      "complement": "1er étage",
+      "code": "48300",
+      "city": "Langogne",
+      "id": 1
+    },
+    {
+      "type": "Appartement",
+      "name": "Appartement cosy",
+      "address": "4 Rue du 8 mai 1945",
+      "complement": "1er étage",
+      "code": "Langogne",
+      "city": "Langogne",
+      "id": 2
+    },
+    {
+      "type": "Appartement",
+      "name": "Nicolas Bourret",
+      "address": "4 Rue du 8 mai 1945",
+      "complement": "1er étage",
+      "code": "Langogne",
+      "city": "Langogne",
+      "id": 3
+    },
+    {
+      "id": "1_9LyvShUpoxaKIx1z5qZ",
+      "type": "Appartement",
+      "name": "Nicolas Bourret",
+      "address": "4 Rue du 8 mai 1945",
+      "complement": "1er étage",
+      "code": "Langogne",
+      "city": "Langogne"
+    }
+  ]
+}
